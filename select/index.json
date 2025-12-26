@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "夢をかなえてドラえもん",
+  "base_artist": "mao / ひまわりキッズ",
+  "createdAt": "2025-12-26T14:21:12.662536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (ドラえもん)",
+      "artist": "mao",
+      "has_synced": true,
+      "path": "select/01_夢をかなえてドラえもん_(ドラえもん)_mao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "mao",
+      "has_synced": true,
+      "path": "select/02_夢をかなえてドラえもん_mao.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (『ドラえもん』より) [テレビサイズ]",
+      "artist": "Mao feat. ひまわりキッズ",
+      "has_synced": true,
+      "path": "select/03_夢をかなえてドラえもん_(『ドラえもん』より)_[テレビサイズ]_Mao_feat._ひまわりキッズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "mao",
+      "has_synced": true,
+      "path": "select/04_夢をかなえてドラえもん_mao.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん(二部)",
+      "artist": "Hibari Jidou Gasshoudan",
+      "has_synced": false,
+      "path": "select/05_夢をかなえてドラえもん(二部)_Hibari_Jidou_Gasshoudan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (ドラえもん)",
+      "artist": "Yuko Koura",
+      "has_synced": false,
+      "path": "select/06_夢をかなえてドラえもん_(ドラえもん)_Yuko_Koura.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (ED)",
+      "artist": "Yuko Koura",
+      "has_synced": false,
+      "path": "select/07_夢をかなえてドラえもん_(ED)_Yuko_Koura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (オープニング／ドラえもん)",
+      "artist": "Anzu Lilia",
+      "has_synced": false,
+      "path": "select/08_夢をかなえてドラえもん_(オープニング_ドラえもん)_Anzu_Lilia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/09_夢をかなえてドラえもん_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "ドラえもん",
+      "has_synced": true,
+      "path": "select/10_夢をかなえてドラえもん_ドラえもん.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "RUKI",
+      "has_synced": true,
+      "path": "select/11_夢をかなえてドラえもん_RUKI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "MAO",
+      "has_synced": true,
+      "path": "select/12_夢をかなえてドラえもん_MAO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "ドラえもん、のび太、しずか、ジャイアン、スネ夫",
+      "has_synced": true,
+      "path": "select/13_夢をかなえてドラえもん_ドラえもん、のび太、しずか、ジャイアン、スネ夫.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (2008年3月8日公開 映画ドラえもん 『のび太と緑の巨人伝・..",
+      "artist": "mao",
+      "has_synced": true,
+      "path": "select/14_夢をかなえてドラえもん_(2008年3月8日公開_映画ドラえもん_『のび太と緑の巨人伝・.._mao.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん",
+      "artist": "AKI",
+      "has_synced": false,
+      "path": "select/15_夢をかなえてドラえもん_AKI.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (オリジナル・カラオケ)",
+      "artist": "MAO",
+      "has_synced": true,
+      "path": "select/16_夢をかなえてドラえもん_(オリジナル・カラオケ)_MAO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (キャラクター・ソングバージョン) [オリジナル・カラオケ]",
+      "artist": "ドラえもん、のび太、しずか、ジャイアン、スネ夫",
+      "has_synced": true,
+      "path": "select/17_夢をかなえてドラえもん_(キャラクター・ソングバージョン)_[オリジナル・カラオケ]_ドラえもん、のび太、しずか、ジャイアン、スネ夫.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢をかなえてドラえもん",
+      "artist": "mao & ひまわりキッズ",
+      "has_synced": false,
+      "path": "select/pl_01_夢をかなえてドラえもん_mao_&_ひまわりキッズ.txt"
+    }
+  ]
+}
